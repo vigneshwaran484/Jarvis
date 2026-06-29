@@ -244,7 +244,7 @@ This project is licensed under the **Apache 2.0 License** — see [LICENSE](LICE
 
 <div align="center">
 
-Built by [Vigneshwaran C](https://github.com/vigneshwaran484) · [Portfolio](https://vigneshwaran-c-portfolio.netlify.app)
+Built by [Vigneshwaran C](https://github.com/vigneshwaran484)  
 
 *"Sometimes you gotta run before you can walk." — Tony Stark*
 
